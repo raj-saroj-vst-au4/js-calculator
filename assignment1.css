@@ -1,0 +1,40 @@
+.calculator{
+    position:absolute;
+    background-color: skyblue;
+    width: 300px;
+    height: 450px;
+    text-align: center;
+    border: 10px solid grey;
+    border-radius: 12px;
+}
+
+.calculator h1{
+    color: white;
+}
+
+.calculator input{
+    border-radius: 8px;
+    text-align: center;
+    width: 90%;
+    height: 10%;
+    margin-bottom: 15px;
+    border: none;
+}
+
+.calculator button{
+    width: 50px;
+    height: 50px;
+    border: none;
+    background-color: grey;
+    font-size: 35px;
+}
+
+.display{
+    height: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-top: 30px;
+    text-align: center;
+    margin-top: 20%;
+    background-color: white;
+}
